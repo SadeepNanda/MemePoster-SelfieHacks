@@ -21,6 +21,12 @@ The game is built using Tensorflow,Pytorch Keras, CNN, HTML, JavaScript and CSS.
 
 ![WhatsApp Image 2021-04-10 at 23 30 36](https://user-images.githubusercontent.com/64356997/114280007-f7c8e280-9a54-11eb-9ecd-930f372e8d15.jpeg)
 
+## Future Scope
+
+!The application can be embedded in popular social media platforms as a fun app. The app can act as a fun activity for users.
+!The application can be further improved increasing the real time application and makinf it compatible for both mobile and desktop applications.
+!We aspire to increase the scalability of the model and increase its usage as a popular fun web application
+
 ## Acknowledgments
 
 Raviteja Vemulapalli (ravitejavemu@google.com)
